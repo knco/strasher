@@ -44,7 +44,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\Strash.FileSystem\Strash.FileSystem.csproj">
+    <ProjectReference Include="..\Strash.FileSystem\Strash.FileSystem.csproj">
       <Project>{8ebb09f5-5701-48c4-b204-03a7713e58ac}</Project>
       <Name>Strash.FileSystem</Name>
     </ProjectReference>

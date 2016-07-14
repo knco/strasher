@@ -44,7 +44,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\src\Strash.csproj">
+    <ProjectReference Include="..\Strash.csproj">
       <Project>{7d716a84-ce4e-49bf-83e1-5db2e1be8906}</Project>
       <Name>Strash</Name>
     </ProjectReference>

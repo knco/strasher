@@ -48,7 +48,7 @@
       <Project>{8ebb09f5-5701-48c4-b204-03a7713e58ac}</Project>
       <Name>Strash.FileSystem</Name>
     </ProjectReference>
-    <ProjectReference Include="..\Strash.csproj">
+    <ProjectReference Include="..\Strash\Strash.csproj">
       <Project>{7d716a84-ce4e-49bf-83e1-5db2e1be8906}</Project>
       <Name>Strash</Name>
     </ProjectReference>

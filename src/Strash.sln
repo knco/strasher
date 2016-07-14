@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strash", "Strash.csproj", "{7D716A84-CE4E-49BF-83E1-5DB2E1BE8906}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strash", "Strash\Strash.csproj", "{7D716A84-CE4E-49BF-83E1-5DB2E1BE8906}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strash.FileSystem", "Strash.FileSystem\Strash.FileSystem.csproj", "{8EBB09F5-5701-48C4-B204-03A7713E58AC}"
 EndProject

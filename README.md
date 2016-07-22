@@ -6,3 +6,18 @@ A number of tools are available for generating checksums, however, if a user wan
 
 ## Planned Enhancements
 
+* Develop functionality to enable storing of additional file information (i.e. Modified Date) in file Strashes
+* Create a Graphical User Interface and/or File Property Sheet Shell Extension for Strasher
+* Data serialization to JSON and/or XML formats in addition to (or to replace) the current custom Strash serialization format
+* Build a Windows Service to conduct periodic Strash generation, verification, and discrepancy notification for a user defined path
+* Implement functionality to run the application using Command Line Arguments and Options
+* Provide user with ability to backup file Strashes to a single file (Strash, JSON, and/or XML format) or to a data store
+* In line with the above feature, add functionality granting user the ability to restore file Strashes from a backup
+* Add functionality for reviewing, altering and/or deleting all other - other meaning non-Strash - Alternate Data Streams
+* Create Unit Tests, also ideally conduct Benchmarking and Performance Testing
+* Supply Comments in the Code; Add XML Documentation Comments
+* Generate Software Documentation, preferably include Charts and Diagrams
+* Implement functionality to enable Multithreaded file processing
+* Equip application with functionality enabling the user to restore file dates based on the most recent and/or a user selected Strash
+* Utilize the Strash store mechanism to also store File Recovery Data (possibly implementing an approach inspired by the Parchive system and the data it stores in par files)
+* Analyze using Extended File Attributes (as opposed to file Forks) as a means for storing file Strashes in order to enable support for FAT32 filesystems
